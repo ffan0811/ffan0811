@@ -9,7 +9,7 @@
 I'm a passionate soul who loves turning my ideas into reality.
 </p>
 
-Interested in **React.js**, **Next.js**, **TS/JS** nowdays
+❤️ **React.js**, **Next.js**, **TS** ❤️
 
 <br>
 
