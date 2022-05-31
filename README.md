@@ -6,7 +6,7 @@
 </p>
 
 <p>
-I'm a passionate soul who loves turning my ideas into reality.
+I'm a passionate soul who loves bringing my ideas to reality.
 </p>
 
 ❤️ **React.js**, **Next.js**, **TS** ❤️
