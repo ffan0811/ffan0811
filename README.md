@@ -13,7 +13,7 @@ I'm a passionate soul who loves bringing my ideas to reality.
 
 <br>
 
-Take a look at my recent project : [MyBasicDiary](https://mybasicdiary.com/)
+Take a look at my recent project : <a href="https://mybasicdiary.com/" target="_blank">MyBasicDiary</a>
 
 <!--
 **ffan0811/ffan0811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
