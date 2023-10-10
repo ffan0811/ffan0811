@@ -13,11 +13,7 @@ I'm a passionate soul who loves bringing my ideas to reality.
 
 <br>
 
-Take a look at my personal website : [hellomjworld](https://hellomjworld.com/)
-
-<br>
-
-![MJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=ffan0811&show_icons=true&theme=react&count_private=true)
+Take a look at my recent project : [MyBasicDiary](https://mybasicdiary.com/)
 
 <!--
 **ffan0811/ffan0811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
