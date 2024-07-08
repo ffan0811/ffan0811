@@ -1,6 +1,5 @@
 👋 Hi there 👋
 <p>
-  <a href="https://www.linkedin.com/in/mijeongwon/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
   <a href="https://medium.com/@ffan0811" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=Medium&logoColor=white"/></a>
   <a href="https://www.instagram.com/yay_jeongy/" target="_blank"><img src="https://img.shields.io/badge/Instagram-CB3F7C?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>
@@ -13,7 +12,7 @@ I'm a passionate soul who loves bringing my ideas to reality.
 
 <br>
 
-Take a look at my recent project : <a href="https://mybasicdiary.com/" target="_blank">MyBasicDiary</a>
+Take a look at my recent project : <a href="https://bettersayyes.com/" target="_blank">BetterSayYes</a>
 
 <!--
 **ffan0811/ffan0811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
