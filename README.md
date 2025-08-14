@@ -1,3 +1,4 @@
+<!--
 👋 Hi there 👋
 <p>
   <a href="https://medium.com/@ffan0811" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=Medium&logoColor=white"/></a>
@@ -12,6 +13,7 @@ I'm a passionate soul who loves bringing my ideas to reality.
 <br>
 
 Take a look at my recent project : <a href="https://bettersayyes.com/" target="_blank">BetterSayYes</a>
+-->
 
 <!--
 **ffan0811/ffan0811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
